@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Midroba;
+    src: url(../font/Midroba.ttf);
+}
+body {
+    margin: 0;
+    font-family: Midroba;
+}
