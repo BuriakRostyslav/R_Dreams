@@ -17,7 +17,7 @@ header img {
 }
 nav {
     height: 65px;
-    width: 100%;
+    width: calc(100%-76px);
     margin: 0;
     background:#414542 ;
     display: flex;
