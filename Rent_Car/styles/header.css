@@ -1,0 +1,41 @@
+header {
+    width: 100%;
+    height: 92px;
+    display: flex;
+    justify-content: center;
+}
+header img {
+    height: 90px;
+    width: 90px;
+    margin: 0 250px;
+}
+.work-hours {
+    margin: 20px 0;
+}
+.Delivery {
+    margin: 20px 0;
+}
+nav {
+    height: 65px;
+    width: calc(100%-76px);
+    margin: 0;
+    background:#414542 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 38px;
+}
+nav a {
+    color: #FAF6F6;
+    text-decoration: 0;
+    font-size: 25px;
+    padding: 0 15px;
+    height: 60px;
+    line-height: 60px;
+}
+nav a:hover {
+    background:#191a19;
+}
+nav a:nth-child(2) {
+    margin: 0 120px;
+}
